@@ -8,7 +8,7 @@
 }
 
 body {
-  background-color: rgb(190, 252, 231);
+  background-color: teal;
 }
 
 header {
@@ -27,4 +27,34 @@ header h1 {
   header h1 {
     font-size: 1.5rem;
   }
+}
+
+div.rectangle-container {
+  display: inline-block;
+  margin: 20px;
+  cursor: pointer;
+}
+
+div.rectangle1 {
+  background-color: #fff;
+  width: 30px;
+  height: 5px;
+  border-radius: 20px;
+  margin-bottom: 5px;
+}
+
+div.rectangle2 {
+  background-color: #fff;
+  width: 30px;
+  height: 5px;
+  border-radius: 20px;
+  margin-bottom: 5px;
+}
+
+div.rectangle3 {
+  background-color: #fff;
+  width: 30px;
+  height: 5px;
+  border-radius: 20px;
+  margin-bottom: 5px;
 }
