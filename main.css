@@ -108,3 +108,31 @@ div.big-box3 {
   top: 16.5em;
   left: -1px;
 }
+
+div.small-box1 {
+  position: absolute;
+  background: #fff;
+  width: 5%;
+  height: 1px;
+  top: 7em;
+  left: -1px;
+}
+
+div.small-box2 {
+  position: absolute;
+  background: #fff;
+  width: 11.8%;
+  height: 1px;
+  top: 9.9em;
+  left: -7.2px;
+  transform: rotate(90deg);
+}
+
+div.small-box3 {
+  position: absolute;
+  background: #fff;
+  width: 5%;
+  height: 1px;
+  top: 12.8em;
+  left: -1px;
+}
