@@ -58,3 +58,53 @@ div.rectangle3 {
   border-radius: 20px;
   margin-bottom: 5px;
 }
+
+div.field-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+
+div.field-box {
+  background: rgb(2, 66, 2);
+  border: 1px solid #fff;
+  padding: 20px 40px;
+  height: 50vh;
+  width: 60%;
+  position: relative;
+}
+
+div.big-box1 {
+  position: absolute;
+  background: #fff;
+  width: 15%;
+  height: 1px;
+  top: 50px;
+  left: -1px;
+}
+
+div.box2-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div.big-box2 {
+  position: absolute;
+  background: #fff;
+  width: 27%;
+  height: 1px;
+  transform: rotate(90deg);
+  top: 9.9em;
+  right: 35.5em;
+}
+
+div.big-box3 {
+  position: absolute;
+  background: #fff;
+  width: 15%;
+  height: 1px;
+  top: 16.5em;
+  left: -1px;
+}
