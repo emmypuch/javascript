@@ -154,3 +154,16 @@ div.circle {
   border-radius: 50%;
   border: 2px solid #fff;
 }
+
+div.field-box2 {
+  position: relative;
+}
+
+div.bigger-box {
+  position: absolute;
+  background: #fff;
+  width: 15%;
+  height: 1px;
+  top: 50px;
+  left: -1px;
+}
